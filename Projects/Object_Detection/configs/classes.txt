@@ -1,0 +1,12 @@
+Person
+Chair
+Desk
+Computer monitor
+Laptop
+Computer keyboard
+Mouse
+Book
+Coffee cup
+Bottle
+Pen
+Whiteboard
